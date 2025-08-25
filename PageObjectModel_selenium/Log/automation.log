@@ -1,0 +1,8 @@
+2025-04-16 19:35:33: INFO: *******Test Case Execution start *******
+2025-04-16 19:35:33: INFO: *******To Verify the Login Functionality *******
+2025-04-16 19:35:33: INFO: *******Webdriver launched successfully *******
+2025-04-16 19:35:34: INFO: *******Url Open Successfully in the browser *******
+2025-04-16 19:35:34: INFO: *******Created Object of Login success *******
+2025-04-16 19:35:34: INFO: *******Username set successfully in the textfile *******
+2025-04-16 19:35:37: INFO: *******Password set successfully in the textfile *******
+2025-04-16 19:35:40: INFO: *******Click on the login Done *******
